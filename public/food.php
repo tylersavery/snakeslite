@@ -13,12 +13,8 @@
     <div class="food_table_container" id="food_table_hotdrinks">
         <table class="food_table">
             <tr>
-                <td>Coffee</td>
-                <td class="price">2.00</td>
-            </tr>
-            <tr>
                 <td>Americano</td>
-                <td class="price">2.00</td>
+                <td class="price">2.50</td>
             </tr>
             <tr>
                 <td>Espresso</td>
@@ -38,7 +34,7 @@
             </tr>
             <tr>
                 <td>Nutella Late</td>
-                <td class="price">4.25</td>
+                <td class="price">5.00</td>
             </tr>
             <tr>
                 <td>Mocha</td>
@@ -109,7 +105,7 @@
         <table class="food_table">
             <tr>
                 <td>Milkshakes <span>Vanilla, Chocolate, Banana, Strawberry, Raspberry</span></td>
-                <td class="price">4.25</td>
+                <td class="price">4.50</td>
             </tr>
             <tr>
                 <td><span>Coffee, Chai Latte, Blueberry Cheesecake, Monkey Mocha, Choc-o-Mint </span></td>
@@ -117,7 +113,7 @@
             </tr>
             <tr>
                 <td>Smoothies <span>Queen Bee, Mango + Strawberry, Pear + Blueberry, Peach + Raspberry, Guava + Ban</span></td>
-                <td class="price">4.25</td>
+                <td class="price">4.50</td>
             </tr>
             <tr>
                 <td>Customize It! Any Juice + Any Fruit</td>
@@ -125,7 +121,7 @@
             </tr>
             <tr>
                 <td>Juice <span>Orange, Pear, Peach, Guava, Mango </span></td>
-                <td class="price">2.00</td>
+                <td class="price">2.50</td>
             </tr>
             <tr>
                 <td>Perrier/Orangina</td>
@@ -135,10 +131,17 @@
                 <td>Pop/Water</td>
                 <td class="price">1.50</td>
             </tr>
+            
             <tr>
-                <td>Beer (Bottle) <span>Steam Whistle, Mill St. Organic, Tankhouse, Moosehead, Rickard’s Red, Rickard’s White, Creemore, Fin du Monde </span></td>
+                <td>Beer<span>SteamWhistle, Mill St Organic, Tankhouse, Moosehead, Big Wheel Amber, Creemore</span></td>
                 <td class="price">5.50</td>
             </tr>
+
+            <tr>
+                <td>Beer<span>Blanche de Chambly, Fin du Monde, La Messagere Rousse (GF)</span></td>
+                <td class="price">5.75</td>
+            </tr>
+            
             <tr>
                 <td>Beer (Can) <span>Guinness, Sapporro, Nickel Brook Gluten Free </span></td>
                 <td class="price">6.50</td>
@@ -153,11 +156,11 @@
             </tr>
             <tr>
                 <td>Mixed Drink (1 oz)</td>
-                <td class="price">5.50</td>
+                <td class="price">8.75</td>
             </tr>
             <tr>
                 <td>Mixed Drink (2 oz)</td>
-                <td class="price">8.75</td>
+                <td class="price">9.25</td>
             </tr>
             <tr>
                 <td>Shot (1 oz)</td>
@@ -228,7 +231,7 @@
         <table class="food_table">
             <tr>
                 <td>Croque Monsieur <span>Ham + Swiss Cheese, Prosciutto + Brie + Spinach, Brie + Spinach </span></td>
-                <td class="price">4.00</td>
+                <td class="price">4.50</td>
             </tr>
             <tr>
                 <td>Quiche <span>Meat, Veggie, Vegan - ask server or see display fridge for current selection</span></td>
@@ -236,7 +239,7 @@
             </tr>
             <tr>
                 <td>Bagel <span>Butter, Cream Cheese, Nutella</span></td>
-                <td class="price">2.00</td>
+                <td class="price">2.25</td>
             </tr>
             <tr>
                 <td>Snack Bowl <span></span></td>
@@ -252,7 +255,7 @@
             </tr>
             <tr>
                 <td>Tart/Cake <span>Ask server or see display fridge for current selection </span></td>
-                <td class="price">3.75-4.25</td>
+                <td class="price">From 3.75</td>
             </tr>
             <tr>
                 <td>Cookie (V) <span>Harvest Phase, Oatmeal Chocolate Chip</span></td>
@@ -271,10 +274,6 @@
                 <td class="price">2.50</td>
             </tr>
             <tr>
-                <td>Meringue (GF) <span></span></td>
-                <td class="price">2.25</td>
-            </tr>
-            <tr>
                 <td>Fudge (V-GF) <span></span></td>
                 <td class="price">2.00</td>
             </tr>
@@ -284,7 +283,7 @@
             </tr>
             <tr>
                 <td>Fresh Fruit <span></span></td>
-                <td class="price">0.75</td>
+                <td class="price">1.00</td>
             </tr>
             <tr>
                 <td>Lollipop <span></span></td>
