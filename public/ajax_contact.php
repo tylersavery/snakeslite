@@ -33,6 +33,7 @@ case 'snakeslite':
     $db = mysql_selectdb('snakeslite');
 break;
 case 'snakesandlattes.com':
+case '72.51.30.210':
     $connecton = mysql_connect('127.0.0.1', 'snakesandlattes', 'z4veaAbjcBnHPyVE');
     $db = mysql_selectdb('snakesandlattes');
     break;
